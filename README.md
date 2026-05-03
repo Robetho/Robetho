@@ -65,19 +65,6 @@ I'm a **passionate and versatile developer** skilled in crafting **clean and res
 
 ---
 
-### 📫 How to reach me
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | robetholyando@gmail.com |
-| 📧 Secondary Email | lyandorobetho@gmail.com |
-| 💼 LinkedIn | robetho-lyando-07282636a |
-| 🌐 Portfolio | robetholyando.onrender.com |
-
-<br/><br/>
-
----
-
 ### 🎯 Current Goals
 
 - 🔭 Building scalable web applications that serve real users
