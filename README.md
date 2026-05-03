@@ -2,24 +2,25 @@
   
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Robetho Lyando
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Passionate+Developer;Clean+%26+Responsive+Websites;Powerful+Web+Applications;Mobile+App+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;Problem+Solver;Tech+Enthusiast" />
 
 </div>
 
 ---
 
-### 👨‍💻 Kuhusu Mimi
+### 👨‍💻 **About Me**
 
-I'm a **passionate and versatile developer**, skilled in crafting **clean and responsive websites**, building **powerful web application systems**, and developing **mobile applications**.
+I'm a **passionate and versatile developer** skilled in crafting **clean and responsive websites**, building **powerful web application systems**, and developing **mobile applications** that solve real-world problems.
 
-✅ **Ninachojua kufanya:**
-- Frontend na Backend Development
-- Mobile App Development
-- System Architecture
+> **💡 What I Do:**
+> - Full-Stack Web Development
+> - Mobile App Development (Flutter)
+> - System Architecture & Design
+> - API Integration
 
 ---
 
-### 🌐 Wasiliana Nami
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://robetholyando.onrender.com/">
@@ -32,13 +33,13 @@ I'm a **passionate and versatile developer**, skilled in crafting **clean and re
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:lyandorobetho@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Alternate-00B4D8?style=for-the-badge&logo=protonmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Secondary_Email-00B4D8?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack Zangu
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -48,42 +49,94 @@ I'm a **passionate and versatile developer**, skilled in crafting **clean and re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
 </p>
 
 ---
 
-### 📊 GitHub Stats Zangu
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robetho&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robetho&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robetho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robetho&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robetho&theme=tokyonight&utcOffset=3" width="49%" />
 </p>
 
 ---
 
-### 💼 Projects za Kujivunia
-
-> 🚧 Hivi karibuni nitaweka projects zangu hapa
-
----
-
-### 💡 Quote Ninayoipenda
-
-> "Building digital solutions that make a difference"
-
----
-
-### 📈 Wageni Waliotembelea
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Robetho&color=00B4D8&style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Robetho&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robetho&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF" width="95%" />
+</p>
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔧 Project 1 | Coming soon | React, Node.js |
+| 📱 Project 2 | Coming soon | Flutter, Firebase |
+| 🌐 Project 3 | Coming soon | Python, Django |
+
+> 🚧 More exciting projects coming soon! Stay tuned...
+
+---
+
+### 📫 How to reach me
+
+- 💌 **Email:** robetholyando@gmail.com
+- 💼 **LinkedIn:** robetho-lyando-07282636a
+- 🌐 **Portfolio:** robetholyando.onrender.com
+
+---
+
+### 🎯 Current Goals
+
+- 🔭 Building scalable web applications
+- 🌱 Learning Cloud Computing (AWS)
+- 🤝 Open to collaborations
+- 📝 Sharing knowledge through tech articles
+
+---
+
+### 💡 Favorite Quote
+
+> *"Code is poetry. Build something that makes a difference."*
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Robetho&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 <div align="center">
+  
 ⭐ **"Building digital solutions that make a difference"** ⭐
 
-**© 2024 Robetho Lyando | Developer**
+**Robetho Lyando** | Full-Stack Developer | Mobile App Developer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&gradientColors=00B4D8,FF5722" width="100%" />
+
 </div>
