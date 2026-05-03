@@ -86,23 +86,6 @@ I'm a **passionate and versatile developer** skilled in crafting **clean and res
 <br/><br/>
 
 
-
----
-
-### 🔗 Quick Links
-
-<a href="https://github.com/Robetho">
-  <img src="https://img.shields.io/badge/GitHub-Robetho-181717?style=flat-square&logo=github" />
-</a>
-<a href="https://robetholyando.onrender.com/">
-  <img src="https://img.shields.io/badge/Website-robetholyando.onrender.com-FF5722?style=flat-square&logo=google-chrome" />
-</a>
-<a href="https://linkedin.com/in/robetho-lyando-07282636a">
-  <img src="https://img.shields.io/badge/LinkedIn-Robetho%20Lyando-0077B5?style=flat-square&logo=linkedin" />
-</a>
-
-<br/><br/>
-
 ---
 
 ⭐ **"Building digital solutions that make a difference"** ⭐
