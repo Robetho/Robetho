@@ -98,21 +98,7 @@ I'm a **passionate and versatile developer** skilled in crafting **clean and res
 
 <br/><br/>
 
----
 
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Robetho&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
----
-
-### 🎵 Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="80%" />
-
-<br/><br/>
 
 ---
 
