@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Mobile+App+Developer;Problem+Solver;Tech+Enthusiast" />
 
-</div>
+<br/><br/>
 
 ---
 
@@ -18,125 +18,192 @@ I'm a **passionate and versatile developer** skilled in crafting **clean and res
 > - System Architecture & Design
 > - API Integration
 
+<br/><br/>
+
 ---
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://robetholyando.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/robetho-lyando-07282636a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:robetholyando@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:lyandorobetho@gmail.com">
-    <img src="https://img.shields.io/badge/Secondary_Email-00B4D8?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://robetholyando.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/robetho-lyando-07282636a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:robetholyando@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="mailto:lyandorobetho@gmail.com">
+  <img src="https://img.shields.io/badge/Secondary_Email-00B4D8?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+
+<br/><br/>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robetho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robetho&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF" width="49%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Robetho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robetho&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF" width="49%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robetho&theme=tokyonight&utcOffset=3" width="49%" />
-</p>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robetho&theme=tokyonight&utcOffset=3" width="49%" />
+
+<br/><br/>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Robetho&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Robetho&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15" />
+
+<br/><br/>
 
 ---
 
 ### 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robetho&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF" width="95%" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robetho&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF" width="95%" />
+
+<br/><br/>
 
 ---
 
 ### 💼 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔧 Project 1 | Coming soon | React, Node.js |
-| 📱 Project 2 | Coming soon | Flutter, Firebase |
-| 🌐 Project 3 | Coming soon | Python, Django |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🔧 E-Commerce Platform | Full-featured online store | React, Node.js, MongoDB | [Repo](#) |
+| 📱 Mobile Banking App | Secure financial transactions | Flutter, Firebase | [Repo](#) |
+| 🌐 Portfolio Website | Personal portfolio & blog | HTML, CSS, JavaScript | [Demo](#) |
 
 > 🚧 More exciting projects coming soon! Stay tuned...
+
+<br/><br/>
+
+---
+
+### 📊 Contribution Graph (GitHub Green Dots)
+
+> ⚠️ **Ikiwa contributions (green dots) hazionekani kwenye GitHub yako, fanya hivi:**
+
+| Tatizo | Suluhisho |
+|--------|-----------|
+| Email hailingani na GitHub | `git config --global user.email "robetholyando@gmail.com"` |
+| Commits haziko kwenye main branch | Hakikisha zimewekwa kwenye main au master |
+| Private contributions hazijawashwa | Nenda Settings → Profile → Weka "Private contributions" |
+
+**Njia ya kuzirekebisha haraka:**
+
+
+<br/><br/>
 
 ---
 
 ### 📫 How to reach me
 
-- 💌 **Email:** robetholyando@gmail.com
-- 💼 **LinkedIn:** robetho-lyando-07282636a
-- 🌐 **Portfolio:** robetholyando.onrender.com
+| Platform | Link |
+|----------|------|
+| 📧 Email | robetholyando@gmail.com |
+| 📧 Secondary Email | lyandorobetho@gmail.com |
+| 💼 LinkedIn | robetho-lyando-07282636a |
+| 🌐 Portfolio | robetholyando.onrender.com |
+
+<br/><br/>
 
 ---
 
 ### 🎯 Current Goals
 
-- 🔭 Building scalable web applications
-- 🌱 Learning Cloud Computing (AWS)
-- 🤝 Open to collaborations
-- 📝 Sharing knowledge through tech articles
+- 🔭 Building scalable web applications that serve real users
+- 🌱 Learning Cloud Computing (AWS, Azure)
+- 🤝 Open to collaborations on open source projects
+- 📝 Sharing knowledge through tech articles and tutorials
+- 🚀 Launching my first SaaS product
+
+<br/><br/>
 
 ---
 
-### 💡 Favorite Quote
+### 📌 GitHub Stats Summary
 
-> *"Code is poetry. Build something that makes a difference."*
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robetho&theme=tokyonight" width="90%" />
+
+<br/><br/>
+
+---
+
+### 💡 Favorite Quotes
+
+*"Code is poetry. Build something that makes a difference."*
+
+*"The only way to do great work is to love what you do."* - Steve Jobs
+
+<br/><br/>
 
 ---
 
 ### 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Robetho&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Robetho&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
 
 ---
 
-<div align="center">
-  
+### 🎵 Random Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="80%" />
+
+<br/><br/>
+
+---
+
+### 🔗 Quick Links
+
+<a href="https://github.com/Robetho">
+  <img src="https://img.shields.io/badge/GitHub-Robetho-181717?style=flat-square&logo=github" />
+</a>
+<a href="https://robetholyando.onrender.com/">
+  <img src="https://img.shields.io/badge/Website-robetholyando.onrender.com-FF5722?style=flat-square&logo=google-chrome" />
+</a>
+<a href="https://linkedin.com/in/robetho-lyando-07282636a">
+  <img src="https://img.shields.io/badge/LinkedIn-Robetho%20Lyando-0077B5?style=flat-square&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+---
+
 ⭐ **"Building digital solutions that make a difference"** ⭐
 
 **Robetho Lyando** | Full-Stack Developer | Mobile App Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&gradientColors=00B4D8,FF5722" width="100%" />
+*"Dream it. Code it. Ship it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&gradientColors=00B4D8,FF5722,6C63FF" width="100%" />
 
 </div>
