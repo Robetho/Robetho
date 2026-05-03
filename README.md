@@ -58,66 +58,6 @@ I'm a **passionate and versatile developer** skilled in crafting **clean and res
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
 
-<br/><br/>
-
----
-
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Robetho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robetho&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robetho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Robetho&theme=tokyonight&utcOffset=3" width="49%" />
-
-<br/><br/>
-
----
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Robetho&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15" />
-
-<br/><br/>
-
----
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robetho&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF" width="95%" />
-
-<br/><br/>
-
----
-
-### 💼 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🔧 E-Commerce Platform | Full-featured online store | React, Node.js, MongoDB | [Repo](#) |
-| 📱 Mobile Banking App | Secure financial transactions | Flutter, Firebase | [Repo](#) |
-| 🌐 Portfolio Website | Personal portfolio & blog | HTML, CSS, JavaScript | [Demo](#) |
-
-> 🚧 More exciting projects coming soon! Stay tuned...
-
-<br/><br/>
-
----
-
-### 📊 Contribution Graph (GitHub Green Dots)
-
-> ⚠️ **Ikiwa contributions (green dots) hazionekani kwenye GitHub yako, fanya hivi:**
-
-| Tatizo | Suluhisho |
-|--------|-----------|
-| Email hailingani na GitHub | `git config --global user.email "robetholyando@gmail.com"` |
-| Commits haziko kwenye main branch | Hakikisha zimewekwa kwenye main au master |
-| Private contributions hazijawashwa | Nenda Settings → Profile → Weka "Private contributions" |
-
-**Njia ya kuzirekebisha haraka:**
-
 
 <br/><br/>
 
@@ -143,14 +83,6 @@ I'm a **passionate and versatile developer** skilled in crafting **clean and res
 - 🤝 Open to collaborations on open source projects
 - 📝 Sharing knowledge through tech articles and tutorials
 - 🚀 Launching my first SaaS product
-
-<br/><br/>
-
----
-
-### 📌 GitHub Stats Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robetho&theme=tokyonight" width="90%" />
 
 <br/><br/>
 
